@@ -7,3 +7,4 @@ silver_price = 48
 silver_total = silver*silver_price
 gold_price = (total-silver_total)/gold
 print(gold_price)
+
